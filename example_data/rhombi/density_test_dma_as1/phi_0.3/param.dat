@@ -1,0 +1,7 @@
+phi=0.3
+delta=0.2
+T=0.01 
+ptype = 'double_manta_asymm_1'
+val= 15900000
+
+

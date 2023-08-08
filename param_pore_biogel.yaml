@@ -1,0 +1,8 @@
+dimension: 3 
+sigma: 1
+voxcels_per_cell: 3 
+threshold_overlap: 0.0
+outfile: "biogel_pore_sizes_00115.dat"
+outpos: "std_cond_00115"
+N_trial: 100 
+
